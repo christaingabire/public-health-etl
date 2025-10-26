@@ -1,5 +1,8 @@
 # Public Health Data ETL Pipeline (Sub-Saharan Africa)
 
+## Overview
+This project explores how public health outcomes evolved across Sub-Saharan Africa over six decades. It automates the process of transforming raw World Bank data into an analytics-ready database, enabling longitudinal comparison of life expectancy, immunization, and maternal health indicators. It reflects my early work on building data infrastructure for public systems; A foundation that later evolved into large-scale social protection analytics at RSSB.
+
 ## Introduction
 This project builds a full ETL (Extract, Transform, Load) pipeline using public health data from the World Bank's Health Nutrition and Population Statistics database.  
 It focuses on analyzing three key health indicators across four Sub-Saharan African countries from 1960 to 2023:
